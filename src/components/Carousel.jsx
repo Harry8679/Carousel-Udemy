@@ -8,10 +8,10 @@ import "swiper/css/effect-coverflow";
 
 // Images du carousel
 const slides = [
-  { id: 1, url: "https://source.unsplash.com/random/800x600?nature", title: "Nature" },
-  { id: 2, url: "https://source.unsplash.com/random/800x600?city", title: "City Life" },
-  { id: 3, url: "https://source.unsplash.com/random/800x600?technology", title: "Technology" },
-  { id: 4, url: "https://source.unsplash.com/random/800x600?travel", title: "Travel" },
+  { id: 1, url: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlfGVufDB8fDB8fHww", title: "Champ" },
+  { id: 2, url: "https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmF0dXJlfGVufDB8fDB8fHww", title: "Forêt" },
+  { id: 3, url: "https://images.unsplash.com/photo-1505820013142-f86a3439c5b2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D", title: "Champignon" },
+  { id: 4, url: "https://plus.unsplash.com/premium_photo-1673603988651-99f79e4ae7d3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bmF0dXJlfGVufDB8fDB8fHww", title: "Montagnes" },
 ];
 
 const Carousel = () => {
